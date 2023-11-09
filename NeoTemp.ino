@@ -19,7 +19,7 @@ bool firstRun = true;
 const char* devHostname = "WX-TEMP";
 
 // Replace with the URL to the JSON data (HTTPS)
-const char* jsonUrl = "https://tools.wizworks.net/observations.json";
+const char* jsonUrl = "https://your.tempest.weather.apifeed.json";
 
 // Replace with your NeoPixel configuration
 #define NEOPIXEL_PIN 4  // Pin connected to the NeoPixel ring (GPIO4)
